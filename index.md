@@ -6,7 +6,11 @@
 [STMCubeIDE](STMCubeIDE)
 [Zathura](Zathura)
 [Vifm](Vifm)
+[Vimwiki](Vimwiki)
+[System](System)
 
 == Languages ==
 [C](C)
 
+== General ==
+[Money](Money)

@@ -1,0 +1,7 @@
+[Brightness](Brightness)
+[Find](Find)
+[Grep](Grep)
+[FZF](FZF)
+[tr](tr)
+[sed](sed)
+[mount](mount)

@@ -1,1 +1,2 @@
 [AUR](AUR)
+[Pacman](Pacman)
