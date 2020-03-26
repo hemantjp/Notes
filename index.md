@@ -8,6 +8,7 @@
 [Vifm](Vifm)
 [Vimwiki](Vimwiki)
 [System](System)
+[STM8](STM8)
 
 == Languages ==
 [C](C)

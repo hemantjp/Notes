@@ -10,3 +10,7 @@ open file
 
 move to page #
 :<page_number>
+
+map l navigate next
+
+set selection-clipboard clipboard

@@ -1,3 +1,4 @@
+[Printer](Printer)
 [Brightness](Brightness)
 [Find](Find)
 [Grep](Grep)
