@@ -1,2 +1,6 @@
+[lots_awesome](lots_awesome)
 [Struct](Struct)
 [gcc](gcc)
+[global_extern](global_extern)
+[pointers](pointers)
+[weak](weak)

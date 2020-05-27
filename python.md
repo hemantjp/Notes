@@ -3,7 +3,16 @@
 needs packages
 ipython
 python-ipykernel
-jupyter-console
+jupyter_console
+
+## arm-gdb-py specific
+uses python2.7
+for ipython first install 
+arch : python2-pip
+then pip2.7 install ipython
+
+without above gdb-py cannot locate IPython..
+also above packages will have to be installed for python2.7
 
 ## commands
 in gdb 

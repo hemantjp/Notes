@@ -1,1 +1,6 @@
 [python](python)
+[history](history)
+[Logging](Logging)
+[Output_redirection](Output_redirection)
+[sundry](sundry)
+[Personal_test_setup](Personal_test_setup)

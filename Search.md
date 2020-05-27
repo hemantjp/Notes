@@ -1,4 +1,5 @@
-:let @/= lets you mdify last searched pattern
+:let @/= lets you modify last searched pattern
+
 
 To clear the last used search pattern:
 :let @/ = ""

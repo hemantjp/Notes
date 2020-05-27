@@ -29,4 +29,9 @@ Push the changes in your local repository to GitHub.
 $ git push origin master
 # Pushes the changes in your local repository up to the remote repository you specified as the origin
 
+# added some files to origin before adding repo
+git pull origin master --allow-unrelated-histories
+
+# git undo folder/files added
+git rm -r --cached <folder>
 
